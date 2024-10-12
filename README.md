@@ -54,6 +54,5 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
-- https://brett.trpstra.net/brettterpstra -> https://huijian222.github.io/RSS-GPT/brett-terpstra.xml
-- https://rsshub.app/sspai/index -> https://huijian222.github.io/RSS-GPT/sspai.xml
-- https://rsshub.app/36kr/motif/327686782977 -> https://huijian222.github.io/RSS-GPT/36kr-ai.xml
+- https://rsshub.henry.wang/sspai/index -> https://huijian222.github.io/RSS-GPT/sspai.xml
+- https://rsshub.henry.wang/36kr/motif/327686782977 -> https://huijian222.github.io/RSS-GPT/36kr-ai.xml

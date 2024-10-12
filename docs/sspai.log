@@ -35362,3 +35362,23 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/sspai/index
 append_entries: 0
 error when rendering xml, skip docs/sspai
+------------------------------------------------------
+Started: 2024-10-12 19:35:47.672552
+Existing_entries: 1000
+Fetching from https://rsshub.henry.wang/sspai/index
+Token length: 3257
+Summarized using gpt-4o-mini
+Append: [佳能无反系统购买指南](https://sspai.com/post/92794)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [城市漫步指南：掠过七月的曼谷](https://sspai.com/post/91357)
+Append: [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/92850)
+Append: [仍是那颗「恐怖游戏」桂冠上的明珠：《寂静岭 2 重制版》游玩体验](https://sspai.com/post/92829)
+Append: [书签「上上千」：用 Linkding 和 Trilium 自建服务轻松管理](https://sspai.com/post/92796)
+Append: [派早报：vivo 开发者大会开幕、Intel 发布新款桌面级 Core Ultra 200S 系列处理器等](https://sspai.com/post/92817)
+Append: [看什么 Café | 日剧观看指南：编剧篇](https://sspai.com/post/92507)
+Append: [不变的颜值，更强的连接，少数派定制 Keychron K3 Max](https://sspai.com/post/92779)
+Append: [已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒](https://sspai.com/post/92653)
+Append: [派早报：天玑 9400 处理器正式发布、微信新增「搜索直达」等](https://sspai.com/post/92787)
+append_entries: 10
+Finish: 2024-10-12 19:35:56.336565

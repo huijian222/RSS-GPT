@@ -52,6 +52,5 @@
 
 <a href="https://www.buymeacoffee.com/yinan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-- https://brett.trpstra.net/brettterpstra -> https://huijian222.github.io/RSS-GPT/brett-terpstra.xml
-- https://rsshub.app/sspai/index -> https://huijian222.github.io/RSS-GPT/sspai.xml
-- https://rsshub.app/36kr/motif/327686782977 -> https://huijian222.github.io/RSS-GPT/36kr-ai.xml
+- https://rsshub.henry.wang/sspai/index -> https://huijian222.github.io/RSS-GPT/sspai.xml
+- https://rsshub.henry.wang/36kr/motif/327686782977 -> https://huijian222.github.io/RSS-GPT/36kr-ai.xml
