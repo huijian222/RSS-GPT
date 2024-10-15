@@ -35397,3 +35397,18 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [从来如此便是对吗？来自「愣头青」的杰作：BALMUDA Phone](https://sspai.com/post/92454)
 append_entries: 1
 Finish: 2024-10-14 00:57:49.583393
+------------------------------------------------------
+Started: 2024-10-15 00:56:52.069357
+Existing_entries: 1001
+Fetching from https://rsshub.henry.wang/sspai/index
+Token length: 2916
+Summarized using gpt-4o-mini
+Append: [派早报：vivo 发布 X200 系列等新品，富士发布 X-M5 无反数码相机等](https://sspai.com/post/92923)
+Token length: 5654
+Summarized using gpt-4o-mini
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/92918)
+Append: [日本浮生录 06：漫步古街、高山徒步，在金泽富山畅享夏日](https://sspai.com/post/92519)
+Append: [如何用 4 到 6 个月从零基础自学过 N2](https://sspai.com/post/92308)
+Append: [派早报：上交所通过重启系统解决堵单问题](https://sspai.com/post/92897)
+append_entries: 5
+Finish: 2024-10-15 00:57:05.763984
